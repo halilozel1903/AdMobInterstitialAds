@@ -1,2 +1,2 @@
 # AdMob Interstitial Ads
-AdMobInterstitialAds kullanımıyla ilgili bir projedir.
+AdMob is a project about using Interstitial Ads.
